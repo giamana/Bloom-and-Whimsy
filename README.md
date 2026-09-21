@@ -1,17 +1,17 @@
-# Web-Development-Final-Project
+# Bloom and Whimsy Clothing Store
 
-This is a simple project. To run it locally, follow these steps:
-  1. Click the green **Code** button and select **Download ZIP**.
+A romantic, floral clothing storefront: my own take on the Love Shack Fancy look, designed in Figma and built with plain HTML, CSS, JavaScript, and Bootstrap.
 
-  2. Extract the Files:
-   - After downloading, unzip the file on your computer.
+##Live site: https://giamana.github.io/Web-Development-Final-Project/
 
-  3. Open the Project:
-   - In the extracted folder, locate the **`finalProject.html** file.
-   - Double-click it to open in your browser and enjoy the final project!
+##Figma Prototype: https://www.figma.com/design/80n0LkXPDzVpPWkrjJGAEA/Bloom-and-Whimsy?t=rZdsLBWZFMuxFHPZ-0
 
-If you have any issues or questions, feel free to reach out!
+## What's in it
+- Home, Shop, and New Arrivals pages
+- Beauty and Gift Guide pages
 
-Figma Prototype: https://www.figma.com/design/80n0LkXPDzVpPWkrjJGAEA/Bloom-and-Whimsy?t=rZdsLBWZFMuxFHPZ-0
+## Built with
+HTML5, CSS3, JavaScript, Bootstrap, Figma (design)
 
-Download Project ZIP: https://github.com/giamana/Web-Development-Final-Project.git
+## My role
+I designed the storefront in Figma and built the whole site from scratch, without React or any other JavaScript framework. This is a personal project inspired by Love Shack Fancy's aesthetic and is not affiliated with the brand.
